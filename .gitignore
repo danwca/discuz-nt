@@ -8,3 +8,5 @@ Thunbs.db
 *.bak
 *.cache
 obj/
+backup/
+upgradelog.htm
